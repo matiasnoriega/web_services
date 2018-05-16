@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+	<persona>
+		<nombre nacionalidad="argentino">Matias</nombre>
+		<numero_documento>123123123</numero_documento>
+	</persona>
+	<persona>
+		<nombre nacionalidad="argentino">Nicolas</nombre>
+		<numero_documento>123123123</numero_documento>
+	</persona>
+	<persona>
+		<nombre nacionalidad="argentino">Julieta</nombre>
+		<numero_documento>3323123123</numero_documento>
+	</persona>
+</personas>
